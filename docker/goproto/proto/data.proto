@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+package goproto;
+
+option go_package = "main/proto";
+
+message Data {
+    string id = 1;
+    string name = 2;
+    int64 timestamp = 3; // Unix timestamp
+}
