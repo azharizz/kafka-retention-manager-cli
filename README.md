@@ -121,7 +121,3 @@ For a visual demonstration of the Kafka Retention Manager CLI and its associated
 - Link: [Kafka Retention Manager CLI Demo](https://www.youtube.com/watch?v=aGrZOSbiRoo)
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/CEr3pQliJwE/0.jpg)](https://www.youtube.com/watch?v=aGrZOSbiRoo)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
